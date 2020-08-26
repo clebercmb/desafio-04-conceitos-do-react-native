@@ -32,7 +32,6 @@ export default function App() {
     
     let repositoryIndex = repositories.findIndex(repository => repository.id === id)
 
-
     //console.log('####==> repository=', newRepository)
     //newRepository.likes = response.data.likes
 
