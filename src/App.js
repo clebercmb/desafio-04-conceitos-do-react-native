@@ -44,8 +44,6 @@ export default function App() {
     setRepositories([...newRepositories])
     console.log('>>>>(After):',newRepository) 
 
-   
-
   }
 
   return (
